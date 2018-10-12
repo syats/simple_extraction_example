@@ -1,0 +1,5 @@
+-e git+git://github.com/semantic-web-company/pp_api.git#egg=pp_api
+-e git+git://github.com/semantic-web-company/nif.git#egg=nif
+-e git+git://github.com/semantic-web-company/pp_vectorizer.git#egg=pp_vectorizer
+python-decouple
+ipython
